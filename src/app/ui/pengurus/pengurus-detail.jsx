@@ -1,8 +1,8 @@
 "use client";
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 import Link from "next/link";
 import Image from "next/image";
-import { Card, CardBody } from "@nextui-org/card";
+import { Card, CardBody } from "@heroui/card";
 
 export const PengurusDetail = ({ pengurus }) => {
   return (

@@ -1,6 +1,6 @@
 'use client'
 
-import { Button } from "@nextui-org/button"
+import { Button } from "@heroui/button"
 import {useState, useRef, useEffect} from "react"
 import { SwiperSlide, Swiper } from "swiper/react"
 import { Autoplay } from 'swiper/modules'

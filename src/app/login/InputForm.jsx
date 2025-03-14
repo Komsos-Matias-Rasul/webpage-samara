@@ -1,5 +1,5 @@
 "use client"
-import { Input } from "@nextui-org/input"
+import { Input } from "@heroui/input"
 import { HiEye, HiEyeOff } from "react-icons/hi";
 import { useState } from "react"
 

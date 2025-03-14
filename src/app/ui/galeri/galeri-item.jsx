@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { Card, CardBody, CardFooter } from "@nextui-org/card";
+import { Card, CardBody, CardFooter } from "@heroui/card";
 import Link from "next/link";
 import Image from "next/image";
 

@@ -1,12 +1,12 @@
 'use client'
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 import {
   Modal,
   ModalContent,
   ModalHeader,
   ModalBody,
   ModalFooter,
-  } from "@nextui-org/modal";
+  } from "@heroui/modal";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
